@@ -49,7 +49,6 @@ It highlights **production-ready practices**, including:
 * Forecast visualization
 * Command-line based predictions
 
-<p align="right">(<a href="README-top">back to top</a>)</p>
 
 ---
 
@@ -74,7 +73,6 @@ The **Stock Price Prediction Model** shows how machine learning can assist in fi
 * 📈 **Clear Forecast Visualizations**
   Separate historical and future trend graphs.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
 
@@ -89,8 +87,6 @@ This project was built using the following major libraries and tools:
 * ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-DD0031?style=for-the-badge)
 * ![Pickle](https://img.shields.io/badge/Pickle-Serialization-6C757D?style=for-the-badge\&logo=python\&logoColor=white)
 * ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
 
@@ -123,10 +119,6 @@ Stock-Price-Prediction-Model/
 └── README.md
 ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
----
-
 ## Downloads
 
 - 📓 **Jupyter Notebook (Preprocessing + Model Training)**  
@@ -136,8 +128,6 @@ Stock-Price-Prediction-Model/
   👉 [Download Prediction_Model.pkl](https://github.com/Gandharv3352/Stock-Price-Prediction-Model/blob/main/stock_model.pkl)
 
 > ⚠️ Ensure the same library versions are used when loading the pickle file.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
 
