@@ -94,13 +94,20 @@ This project was built using the following major libraries and tools:
 
 ---
 
-## Languages Used
+## Popular Stock Symbols
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-100%25-blue?style=for-the-badge&logo=python" />
-</p>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+| Company   | Symbol |
+| --------- | ------ |
+| Apple     | AAPL   |
+| Microsoft | MSFT   |
+| Google    | GOOG   |
+| Amazon    | AMZN   |
+| Tesla     | TSLA   |
+| Meta      | META   |
+| Netflix   | NFLX   |
+| NVIDIA    | NVDA   |
+| Intel     | INTC   |
+| AMD       | AMD    |
 
 ---
 
@@ -184,24 +191,6 @@ Enter number of days to predict: 10
 ## ⚠️ Disclaimer
 
 This project is for educational purposes only and not financial advice.
-
----
-
-
-## Popular Stock Symbols
-
-| Company   | Symbol |
-| --------- | ------ |
-| Apple     | AAPL   |
-| Microsoft | MSFT   |
-| Google    | GOOG   |
-| Amazon    | AMZN   |
-| Tesla     | TSLA   |
-| Meta      | META   |
-| Netflix   | NFLX   |
-| NVIDIA    | NVDA   |
-| Intel     | INTC   |
-| AMD       | AMD    |
 
 ---
 
