@@ -42,12 +42,19 @@
 
 This project demonstrates a **complete machine learning workflow** for forecasting stock prices using historical data.
 
+### Historical Data Plot
+<img width="1189" height="590" alt="download" src="https://github.com/user-attachments/assets/a4370748-a680-402e-898a-4dbd22ff707a" />
+
 It highlights **production-ready practices**, including:
 
 * Data preprocessing & scaling
 * Model training & serialization
 * Forecast visualization
 * Command-line based predictions
+
+### Future Plot
+<img width="700" height="470" alt="download (1)" src="https://github.com/user-attachments/assets/bf953b16-da18-4f21-914e-282f83c281e6" />
+
 
 
 ---
